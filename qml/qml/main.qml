@@ -40,15 +40,15 @@ Rectangle {
 
         Rectangle {
             id: rectangle1
-            x: 485
-            y: 430
+            x: 308
+            y: 423
             width: 179
             height: 33
             radius: 8
             anchors.left: parent.left
-            anchors.leftMargin: 485
+            anchors.leftMargin: 308
             anchors.top: parent.top
-            anchors.topMargin: 430
+            anchors.topMargin: 423
             gradient: Gradient {
                 GradientStop {
                     position: 0.670
