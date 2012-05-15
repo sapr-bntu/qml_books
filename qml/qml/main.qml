@@ -19,17 +19,20 @@ Rectangle {
     transformOrigin: Item.Center
     Text {
         id: txt
-        x: 245
+        x: 301
         y: 5
         width: 232
         height: 29
+        color: "#e8cc12"
         text: "Библиотека книг"
+        font.family: "Monotype Corsiva"
+        styleColor: "#d9ff4f"
         font.bold: true
         font.italic: false
         horizontalAlignment: Text.AlignHCenter
-        font.pointSize: 11
+        font.pointSize: 31
         anchors.verticalCenterOffset: -230
-        anchors.horizontalCenterOffset: 11
+        anchors.horizontalCenterOffset: 67
         verticalAlignment: Text.AlignVCenter
         wrapMode: Text.NoWrap
         anchors.centerIn: parent
