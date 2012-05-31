@@ -1,12 +1,12 @@
 # Add more folders to ship with the application, here
-folder_01.source = qml/qml
+folder_01.source = qml/qmlBooks
 folder_01.target = qml
 DEPLOYMENTFOLDERS = folder_01
 
 # Additional import path used to resolve QML modules in Creator's code model
 QML_IMPORT_PATH =
 
-symbian:TARGET.UID3 = 0xE33F0EAC
+symbian:TARGET.UID3 = 0xE4C4C27F
 
 # Smart Installer package's UID
 # This UID is from the protected range and therefore the package will
